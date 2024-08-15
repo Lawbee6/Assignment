@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\css\\signin.css",
+      "PackagePath": "staticwebassets\\css\\signin.css"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\js\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\js\\mini-chart.js",
+      "PackagePath": "staticwebassets\\js\\mini-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Hawis\\Source\\Repos\\Blazor-LoginForm-Dashboard\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blazor-LoginForm-Dashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blazor-LoginForm-Dashboard.props",
+      "PackagePath": "build\\Blazor-LoginForm-Dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor-LoginForm-Dashboard.props",
+      "PackagePath": "buildMultiTargeting\\Blazor-LoginForm-Dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blazor-LoginForm-Dashboard.props",
+      "PackagePath": "buildTransitive\\Blazor-LoginForm-Dashboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
